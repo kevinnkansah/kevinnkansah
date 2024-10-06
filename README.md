@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/kevinnkansah" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/kevinnkansah" target="_blank">
+  <a href="https://www.paypal.com/paypalme/8negus8" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=CcZPuP1Awed7&format=png&color=000000" width="40" height="40" alt="github logo" />
   </a>
 </div>
