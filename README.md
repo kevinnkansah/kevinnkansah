@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper32.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
+  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper34.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
 </div>
 
 &nbsp;
@@ -87,5 +87,5 @@
 
 &nbsp;
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper32.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
+  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper34.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
 </div>
