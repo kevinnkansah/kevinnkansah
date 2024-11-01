@@ -1,6 +1,6 @@
 
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper34.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
+  <img src="https://wallpapers.com/images/high/surreal-bubbles-fantasy-landscape-eqieq07phnts12io.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
 </div>
 
 &nbsp;
@@ -30,7 +30,7 @@
 </div>
 
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper35.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
+  <img src="https://wallpapers.com/images/high/surreal-bubbles-fantasy-landscape-eqieq07phnts12io.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
 </div>
 
 <h2 align="center">Web Development Stack:</h2>
@@ -51,7 +51,7 @@
 </div>
 
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper35.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
+  <img src="https://wallpapers.com/images/high/futuristic-cityscape-window-view-395aayc0ht0t66ji.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
 </div>
 
 <h2 align="center">Tools I use for creative work:</h2>
@@ -66,7 +66,7 @@
 </div>
 
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper35.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
+  <img src="https://wallpapers.com/images/high/futuristic-cityscape-window-view-395aayc0ht0t66ji.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
 </div>
 
 <h3 align="center">Contact/Sponser Me:</h3>
@@ -96,5 +96,5 @@
 
 &nbsp;
 <div>
-  <img src="https://frutigeraeroarchive.org/images/wallpapers/wallpaper34.jpg" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
+  <img src="https://wallpapers.com/images/high/futuristic-cityscape-window-view-395aayc0ht0t66ji.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
 </div>
