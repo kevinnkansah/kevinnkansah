@@ -1,100 +1,56 @@
+<div align="center"> <img src="https://web.archive.org/web/20090821130500im_/http://geocities.com/FashionAvenue/Runway/5875/welcome5.gif" alt="Welcome GIF"/> </div>
 
-<div>
-  <img src="https://wallpapers.com/images/high/surreal-bubbles-fantasy-landscape-eqieq07phnts12io.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
-</div>
+<h2 align="center"> AI Engineer | Data Analyst | Creative Designer</h2>
 
-&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinnkansah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.paypal.com/paypalme/8negus8"><img src="https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
+</p>
 
-<div align="center">
-  <img src="https://web.archive.org/web/20090821130500im_/http://geocities.com/FashionAvenue/Runway/5875/welcome5.gif" alt="Welcome GIF"/>
-</div>
+<h3 align="center">  ML/DS/AI Stack</h3>
 
-&nbsp;
+<p align="center">I specialise in data analysis, machine learning, and AI development</p>
 
-<h2 align="center";>ML/DL/AI stack:</h2>
-<p align="center">I specialize in data analysis, machine learning, and deep learning techniques.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-</div>
+<h3 align="center">  Web Development Stack</h3>
 
-<div>
-  <img src="https://wallpapers.com/images/high/surreal-bubbles-fantasy-landscape-eqieq07phnts12io.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
-<h2 align="center">Web Development Stack:</h2>
-<p align="center">I'm also a part-time web developer, proficient in designing and building professional websites using WordPress. Currently, I am employed to make WordPress Websites.</p>
+<h3 align="center">  Creative Tools</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12 "/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" />
-</div>
-
-<div>
-  <img src="https://wallpapers.com/images/high/futuristic-cityscape-window-view-395aayc0ht0t66ji.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
-</div>
-
-<h2 align="center">Tools I use for creative work:</h2>
-<p align="center">In my free time, I create and make art or design with Adobe products</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+</p>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnkansah&layout=compact&theme=swift&hide_border=true" alt="Top Languages" />
 </div>
 
-<div>
-  <img src="https://wallpapers.com/images/high/futuristic-cityscape-window-view-395aayc0ht0t66ji.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 10px;">
-</div>
+<h3 align="center">  Connect With Me</h3>
 
-<h3 align="center">Contact/Sponser Me:</h3>
+<p align="center">Feel free to reach out.</p>
 
-<div style="margin-bottom: 20px;" align="center">
-  <img src="https://web.archive.org/web/20091027151343/http://geocities.com/godzillachicago/images/clickbelow.gif"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinnkansah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.paypal.com/paypalme/8negus8"><img src="https://img.shields.io/badge/PayPal-Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
+</p>
 
-<div style="display: flex; justify-content: space-between;" align="center">
-    <img src="https://web.archive.org/web/20090801054211im_/http://www.geocities.com/Heartland/Hills/2222/maze/pics/aniarrowd.gif" alt="Arrow Image" style="width: 20px;"/>
-    <img src="https://web.archive.org/web/20090801054211im_/http://www.geocities.com/Heartland/Hills/2222/maze/pics/aniarrowd.gif" alt="Arrow Image" style="width: 20px;"/>
-    <img src="https://web.archive.org/web/20090801054211im_/http://www.geocities.com/Heartland/Hills/2222/maze/pics/aniarrowd.gif" alt="Arrow Image" style="width: 20px;"/>
-    <img src="https://web.archive.org/web/20090801054211im_/http://www.geocities.com/Heartland/Hills/2222/maze/pics/aniarrowd.gif" alt="Arrow Image" style="width: 20px;"/>
-    <img src="https://web.archive.org/web/20090801054211im_/http://www.geocities.com/Heartland/Hills/2222/maze/pics/aniarrowd.gif" alt="Arrow Image" style="width: 20px;"/>
-    <img src="https://web.archive.org/web/20090801054211im_/http://www.geocities.com/Heartland/Hills/2222/maze/pics/aniarrowd.gif" alt="Arrow Image" style="width: 20px;"/>
-</div>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kevinnkansah" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.paypal.com/paypalme/8negus8" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=CcZPuP1Awed7&format=png&color=000000" width="40" height="40" alt="github logo" />
-  </a>
-</div>
-
-&nbsp;
-<div>
-  <img src="https://wallpapers.com/images/high/futuristic-cityscape-window-view-395aayc0ht0t66ji.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 15px;">
-</div>
+<div> <img src="https://wallpapers.com/images/high/surreal-bubbles-fantasy-landscape-eqieq07phnts12io.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 40px;"> </div>
