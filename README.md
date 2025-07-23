@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://web.archive.org/web/20090821130500im_/http://geocities.com/FashionAvenue/Runway/5875/welcome5.gif" alt="Welcome GIF"/> </div>
 
-<h2 align="center"> AI Engineer | Data Analyst | Creative Designer</h2>
+<h2 align="center"> AI Engineer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinnkansah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,28 +21,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<h3 align="center">  Web Development Stack</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
-
-<h3 align="center">  Creative Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnkansah&layout=compact&theme=swift&hide_border=true" alt="Top Languages" />
-</div>
 
 <h3 align="center">  Connect With Me</h3>
 
