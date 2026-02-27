@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://web.archive.org/web/20090821130500im_/http://geocities.com/FashionAvenue/Runway/5875/welcome5.gif" alt="Welcome GIF"/> </div>
+<div align="center"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/144918669/555960485-cbcb30a0-38d3-4c0e-a213-8018f74681fa.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260227T124440Z&X-Amz-Expires=300&X-Amz-Signature=f27241ced9d107795a6ece003db5db0180f4cf81d510e8f87cabb304b6759214&X-Amz-SignedHeaders=host" alt="Welcome GIF"/> </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kevinnkansah&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p>
 
 <h2 align="center"> BSc Maths & Stats @ UWC</h2>
