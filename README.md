@@ -3,9 +3,7 @@
 
 <h2 align="center"> BSc Maths & Stats @ UWC</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevinnkansah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+
 
 <h3 align="center">  Connect With Me</h3>
 
@@ -26,6 +24,10 @@
 <p>
   <br></br>
 </p>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/P3m9nm8DeX0AAAAd/gem-finding-gem.gif" />
+</div>
 
 <div style="overflow: hidden;">
   <img src="https://wallpapers.com/images/high/ethereal-green-light-abstract-q0roeifzax7bzcy6.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 40px; object-fit: cover;">
