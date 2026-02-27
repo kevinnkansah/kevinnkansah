@@ -28,7 +28,3 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/P3m9nm8DeX0AAAAd/gem-finding-gem.gif" />
 </div>
-
-<div style="overflow: hidden;">
-  <img src="https://wallpapers.com/images/high/ethereal-green-light-abstract-q0roeifzax7bzcy6.webp" alt="Frutiger Aero Wallpaper" style="width: 100%; height: 40px; object-fit: cover;">
-</div>
