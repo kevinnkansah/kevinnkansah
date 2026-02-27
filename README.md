@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://web.archive.org/web/20090821130500im_/http://geocities.com/FashionAvenue/Runway/5875/welcome5.gif" alt="Welcome GIF"/> </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kevinnkansah&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p>
 
-<h2 align="center"> Data Engineer</h2>
+<h2 align="center"> BSc Maths & Stats @ UWC</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinnkansah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
